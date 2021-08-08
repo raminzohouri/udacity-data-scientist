@@ -1,1 +1,1 @@
-# udacity-data-scientist
+# udacity-data-scientis nano-degree
